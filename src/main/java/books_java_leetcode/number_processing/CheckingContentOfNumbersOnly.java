@@ -1,4 +1,4 @@
-package books_java_codewars.number_processing;
+package books_java_leetcode.number_processing;
 
 public class CheckingContentOfNumbersOnly {
 

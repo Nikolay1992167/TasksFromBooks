@@ -1,4 +1,4 @@
-package books_java_codewars.string_processing;
+package books_java_leetcode.string_processing;
 
 import java.util.StringJoiner;
 

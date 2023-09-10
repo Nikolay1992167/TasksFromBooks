@@ -1,4 +1,4 @@
-package books_java_codewars.char_processing;
+package books_java_leetcode.char_processing;
 
 import org.javatuples.Pair;
 
